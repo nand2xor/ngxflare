@@ -3,7 +3,7 @@ Nginx-Cloudflare Scripts (Automize Cloudflare IP Whitelists in Nginx)
 
 **Description**
 
-Nginx-Cloudflare-scripts is script written in bash to fetch all ipv4 and ipv6 ranges used by all cloudflare hosts and implement them into a www-allow.conf list in your nginx config. Using the nginx directories; _allow_ and _deny all_ to only allow cloudflare traffic to your backend server. Poor-mans firewall for the people without ip-tables.
+Nginx-Cloudflare-scripts is a script written in bash to fetch all ipv4 and ipv6 ranges used by all cloudflare hosts and implement them into a www-allow.conf list in your nginx config. Using the nginx directories; _allow_ and _deny all_ to only allow cloudflare traffic to your backend server. Poor-mans firewall for the people without ip-tables.
 
 **Credits**
 
